@@ -3,7 +3,7 @@
 A Streamlit web app that predicts the species of an iris flower
 (setosa, versicolor or virginica) from its sepal and petal measurements.
 
-**Live app:** _add your Streamlit link here_
+**Live app:** [Try it on Streamlit](https://rafay-iris-classifier.streamlit.app/)
 
 ## How it works
 1. Loads the Iris dataset (150 flowers, 4 measurements each) from scikit-learn.
